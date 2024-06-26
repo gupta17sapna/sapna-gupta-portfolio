@@ -1,19 +1,21 @@
-# Portfolio Website
+# sapna-gupta-portfolio
 
-This is the portfolio website of Sapna Gupta, a Cybersecurity Bootcamp Graduate. This site showcases the projects and skills acquired throughout the course.
+This is my personal portfolio project created to showcase my skills and projects. The portfolio includes sections like About Me, Skills, Projects, and Contact information.
+
+## Features
+
+- **Responsive Design**: Ensures the website looks good on all devices.
+- **Tech Stack**: HTML, CSS, JavaScript, SCSS.
+- **Projects**: A showcase of my projects with descriptions and links.
 
 ## Sections
-- Landing Page
-- About Me
-- Tech Stacks & Skills
-- Projects
-- Contact
 
-## Technologies Used
-- HTML
-- SCSS
-- BEM
-- Git & GitHub
+- **Landing Page**: Introduction and entry point.
+- **About Me**: A brief introduction about myself.
+- **Skills**: A list of technologies and skills I have learned.
+- **Projects**: Details of my projects with links to live versions and GitHub repositories.
+- **Contact**: Contact information including email, GitHub, and LinkedIn.
 
-## Live Version
-[Portfolio Website](https://your-username.github.io/portfolio-website/)
+## Getting Started
+
+To get started with this project, clone the repository and open `index.html` in your browser.
