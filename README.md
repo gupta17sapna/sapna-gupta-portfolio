@@ -13,7 +13,7 @@ This is my personal portfolio project created to showcase my skills and projects
 - **Landing Page**: Introduction and entry point.
 - **About Me**: A brief introduction about myself.
 - **Skills**: A list of technologies and skills I have learned.
-- **Projects**: Details of my projects with links to live versions and GitHub repositories.
+- **Projects**: Details of my projects.
 - **Contact**: Contact information including email, GitHub, and LinkedIn.
 
 ## Getting Started
