@@ -6,7 +6,7 @@ This is my personal portfolio project created to showcase my skills and projects
 
 - **Responsive Design**: Ensures the website looks good on all devices.
 - **Tech Stack**: HTML, CSS, JavaScript, SCSS.
-- **Projects**: A showcase of my projects with descriptions and links.
+- **Projects**: A showcase of my projects with description.
 
 ## Sections
 
